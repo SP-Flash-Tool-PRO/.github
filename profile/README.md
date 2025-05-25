@@ -73,10 +73,10 @@ After downloading, simply open the `.exe` file to launch the tool. No installati
 
 ### 🖼 Preview
 
-![Preview 1](LINK_TO_IMAGE_1)
+![Preview 1](https://media.geeksforgeeks.org/wp-content/uploads/20200909112116/SpFlash2.png)
 *Description for screenshot 1.*
 
-![Preview 2](LINK_TO_IMAGE_2)
+![Preview 2](https://www.hovatek.com/blog/bpyeki/uploads/2023/11/how-to-use-sp-flash-tool-7.webp)
 *Description for screenshot 2.*
 
 ---

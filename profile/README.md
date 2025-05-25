@@ -1,8 +1,8 @@
 
 # SP Flash Tool — MediaTek Firmware Utility PRO+
 
-<a href="https://spflashtool.com/" style="display:inline-block;padding:14px 28px;font-size:16px;font-weight:bold;background:#8A2BE2;color:white;text-decoration:none;border-radius:6px;">⬇️ Download SP Flash Tool</a>
-![Preview](https://spflashtool.com/wp-content/uploads/2020/06/SP-Flash-Tool.jpg)
+[![Download SP Flash Tool](https://img.shields.io/badge/Download-SP_Flash_Tool-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://spflashtool.com/)
+
 
 > 💡 **Tip:** Always back up your IMEI and important partitions before using the Format options.
 
